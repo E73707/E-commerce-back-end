@@ -1,4 +1,4 @@
-# E-commerce-back-end <img src = 'https://img.shields.io/badge/license-MIT-red'/>
+# E-commerce back end <img src = 'https://img.shields.io/badge/license-MIT-red'/>
 
 ## description
 
