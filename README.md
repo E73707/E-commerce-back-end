@@ -2,7 +2,7 @@
 
 ## description
 
-Employee Tracker is a command-line application that allows users to view, add, update, and delete employees, roles, and departments in a company. The application uses Node.js and MySQL to manage employee information.
+Employee Tracker is a command-line application that allows users to view, add, update, and delete Products, Categories, and Tags in an e commerce backend application. The application uses Node.js, MySQL and sequelize to manage information.
 
 ## Table of contents
 
