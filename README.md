@@ -28,7 +28,7 @@ To install this application, you need to have Node.js and MySQL installed on you
 To use the application, open a terminal window and navigate to the directory where the application is installed. Then, run node server.js to start the application. The user will then need to use an application for Testing and Validating Results of RESTful applications such as INSOMNIA.
 
 below is a video attached as a usage example
-
+https://watch.screencastify.com/v/PG8kJcC7bfjBy3XLmwo9
 ## license
 
 MIT
