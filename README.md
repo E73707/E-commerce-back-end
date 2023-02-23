@@ -2,7 +2,7 @@
 
 ## description
 
-Employee Tracker is a command-line application that allows users to view, add, update, and delete Products, Categories, and Tags in an e commerce backend application. The application uses Node.js, MySQL and sequelize to manage information.
+E-commerce back end is a command-line application that allows users to view, add, update, and delete Products, Categories, and Tags in an e commerce backend application. The application uses Node.js, MySQL and sequelize to manage information.
 
 ## Table of contents
 
